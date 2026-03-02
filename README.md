@@ -28,7 +28,7 @@ The analysis addressed three core business questions:
     * The analysis indicates that active bank lending to the private sector (0.17) has a stronger positive correlation with infrastructure development than broad money supply (0.09). This suggests that direct credit access and targeted lending act as more effective financial levers for driving physical market growth than simply increasing the overall money in circulation.
 
 **Predictive Modeling:**
-A Random Forest Classifier was trained to forecast infrastructure growth based on the cleaned macroeconomic indicators. The model achieved an accuracy of 64.95% on the testing set. Feature importance analysis revealed that Foreign Direct Investment (FDI) net inflows, Broad Money Growth, and female unemployment rates are the strongest predictive indicators of future infrastructure acceleration in the region.
+A Random Forest Classifier was trained to forecast infrastructure growth based on the cleaned macroeconomic indicators. The model achieved an accuracy of ~66% on the testing set. Feature importance analysis revealed that Foreign Direct Investment (FDI) net inflows, Broad Money Growth, and female unemployment rates are the strongest predictive indicators of future infrastructure acceleration in the region.
 
 ## Acknowledgements
 * **Data Source:** The data utilized in this project was sourced from the [World Bank Open Data](https://data.worldbank.org/) platform.
