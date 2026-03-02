@@ -14,7 +14,7 @@ The code is written in Python 3 and requires the following libraries:
 
 ## Files in the Repository
 * `macroeconomic_analysis.ipynb`: The main Jupyter Notebook containing the data gathering, assessment, cleaning, exploratory data analysis, and predictive modeling.
-* `data/`: This directory contains the raw World Bank data used for the analysis. *(Update this line depending on how you upload your data)*
+* `data/`: This directory contains the raw World Bank data used for the analysis.
 * `README.md`: This file, providing an overview of the project.
 
 ## Summary of Results
